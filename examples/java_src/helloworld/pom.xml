@@ -48,7 +48,7 @@
     <dependency>
       <groupId>com.google.crypto.tink</groupId>
       <artifactId>tink-awskms</artifactId>
-      <version>HEAD-SNAPSHOT</version>
+      <version>1.6.0</version>
     </dependency>
 
     <dependency>
